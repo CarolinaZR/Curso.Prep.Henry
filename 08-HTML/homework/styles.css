@@ -1,0 +1,18 @@
+h1 {
+    color: rgba(92, 92, 245, 0.438);
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+   height: 600 px;
+   width: 500 px;
+   background-color: rgba(0, 0, 0, 0.363); 
+   padding: 50 px;
+   border: 10 px solid burlywood 
+}
+#spanId {
+    font-size: 18 px;
+    margin: 50px;
+    
+}
