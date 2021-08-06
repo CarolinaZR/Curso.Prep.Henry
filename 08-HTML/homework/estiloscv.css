@@ -1,0 +1,39 @@
+h1 {
+     font-size: 7 px;
+    background-color: rgb(150,164, 128);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#divClass1 {
+    font-size: 11 px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Trabajos {
+    font-size: 14 px;
+    background-color: rgb(150,164, 128);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#descripcion {
+    font-size: 9 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Skills {
+    font-size: 14 px;
+    background-color: rgb(150,164, 128);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#skills1 {
+    font-size: 9 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#foto{
+    height: 30 px;
+    width: 15 px;
+}
+#hobbies {
+    font-size: 9 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#explicación {
+    font-size: 9 px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
